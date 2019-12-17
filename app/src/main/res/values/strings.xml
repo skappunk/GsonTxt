@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GsonTxt</string>
+    <string name="ingresatunombre">ingresa tu nombre</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtedad">Edad</string>
+    <string name="txtcorreo">Correo</string>
+    <string name="txtcurp">Curp</string>
+    <string name="grabar">Grabar</string>
+    <string name="contenido">Contenido</string>
+    <string name="datos" />
+
+
+
+
+
+</resources>
